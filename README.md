@@ -1,4 +1,4 @@
-**Description of the problem:**
+# Description of the problem:
 This problem illustrates the containment and cleanup of groundwater contaminated by two different contaminant species in a two-layer river-aquifer system. The purposes are to minimize contaminant remaining in the aquifer while achieving cleanup to minimum concentration level (MCL) within one year and while preventing contamination from reaching water supply wells or rivers.
 This study employs MODFLOW to simulate groundwater flow processes, while MT3DMS is utilized to simulate the transport of multiple species of solutes for one year.
 The study area is characterized by a grid system with a coarse cell discretization, where each cell measures 80 by 80 meters. The grid consists of eight rows and six columns. The total size of the study area is 75.88 acres. The first aquifer layer is unconfined and has a thickness of 20 meters, while the second layer is confined and has a thickness of 10 meters.
