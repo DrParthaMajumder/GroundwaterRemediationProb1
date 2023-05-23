@@ -1,4 +1,4 @@
-# A simulation-optimization model for groundwater remediation
+# A simulation-optimization model for groundwater remediation:
 # Description of the problem:
 This problem illustrates the containment and cleanup of groundwater contaminated by two different contaminant species in a two-layer river-aquifer system. The purposes are to minimize contaminant remaining in the aquifer while achieving cleanup to minimum concentration level (MCL) within one year and while preventing contamination from reaching water supply wells or rivers.
 This study employs MODFLOW to simulate groundwater flow processes, while MT3DMS is utilized to simulate the transport of multiple species of solutes for one year.
