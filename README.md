@@ -17,7 +17,7 @@ The pumping system in the study consists of two unmanaged drinking water wells. 
 The goal is to minimize the remaining mass while simultaneously achieving containment and cleanup levels within the threshold of 5 parts per billion (ppb).
 More details of the optimization problem can be found in (Peralta, 2012).
 
-# Methodology: **
+# Methodology: 
 	FLOPY is used to generate the MODFLOW and MT3DMS input files. https://flopy.readthedocs.io/en/3.3.2/
 	Particle swarm optimization is used as an optimization model.
 
