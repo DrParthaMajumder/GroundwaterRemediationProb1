@@ -15,7 +15,6 @@ More details of the optimization problem can be found in (Peralta, 2012).
 	Particle swarm optimization is used as an optimization model.
 
 
-**References:**
-Peralta, R.C., 2012. Groundwater Optimization Handbook, Groundwater Optimization Handbook. https://doi.org/10.1201/b11866
+
 
 
